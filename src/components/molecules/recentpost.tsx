@@ -14,6 +14,10 @@ export default function RecentPosts(){
                 title="Buenos Aires in a tango rhythm"
                 body="I love them!"
             />
+            <Post
+                title="Rheno Rayhan Fayyaz Dhana Pramudya"
+                body="NIM: 2141720157"
+            />
         </Section2>
     );
 }
